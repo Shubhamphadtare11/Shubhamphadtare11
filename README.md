@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shubham Phadtare<br>🌱 I’m currently working as Front End Engineer at Infosys <br>👀 I’m Interested in Full Stack Development[MERN] <br>💞️ I’m looking for Fullstack/React.JS/Front End Developer opportunities<br>📫 How to reach me, mail to: shubham.phadtarez11@gmail.com
+👋 Hi, I’m Shubham Phadtare<br>🌱 I’m currently working as Front End Engineer at Infosys <br>👀 I’m Interested in Full Stack Development <br>💞️ I’m looking for Fullstack/React.JS/Front End Developer opportunities<br>📫 How to reach me, mail to: shubham.phadtarez11@gmail.com
 
 
 ## 🌐 Socials:
